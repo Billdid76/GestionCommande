@@ -1,0 +1,71 @@
+#To edit and compare internal_properties, use WINDEV integrated tools.
+#Internal properties refer to the properties of controls in windows, reports, etc.
+info :
+ name : FENMOD_Formation
+ major_version : 27
+ minor_version : 0
+ type : 18
+ description : ""
+ subtype : 0
+window :
+ name : FENMOD_Formation
+ identifier : 0x223856080f628e37
+ internal_properties : BgAAAAYAAABHSkwh0MzobAH+OzpkSmX5bECndIn/ahQ0/5DByOkWrgsVcE9wwMzxks4+12oUroWI1esOZyyL8FvMcw1tgYaIxuGAe+JEAYosnBnzZfY2MeDukmXM/rmoBvFZRbciD5cq2Pv6qAX10liKKbXCIE3J7OSiSYgCIlzjTaBC1h5LxghFOCw2Rtjp9jxgvbQM5MZgEW6RDlyyMhDcWbcV4arbBclI8C+Biq4nL4KFJFwqpOCFYrUG3OotfCZYuFOfwVbXHAvkC8JHgOPppSGBk8oi4lK6+xUH6NEXtfDChE08pdv1AHiEdMgmo4X8fQxSOOKdoNr+76hRYZHksEYIihrDsthJUtr3HP4LDfuyfIkEPfcdBYK/DymuWAPCqizJeRhZBIYGtIWhsqwnjyO0AlVVttTGlL608wifWjTPfbuhBi8h/6sxc4+EwIdooANwtxRFI5JuPCpwaVv3aJz1/xtWG7KWFXCWJ93UM9wyDBjhcbzqdvTUMFzUlEb/GsFmuVbB3X0LdTHPltZpoQuG45Tr9uu1/ZPe54yuL8dNUhr4PlsqAe3Lx5Vm8hnDi63fZOjSOW9ZYLcd2K5xhT1oJPJYP2Pd7nSIEH9IOqmxcWsv+z3ydgP8ojbH
+ controls :
+  -
+    name : IMG_Bandeau_Formation
+    identifier : 0x223856980f73c1ff
+    internal_properties : BgAAAAYAAACC4uxR/fS3jEc+oFTkWw+dllmojRcGehL/hYSRWFnhmXodFXD0MUsvWyImB8sxB3HVl7XZSRuFNC+yfXwhXMfCBPJqutm76G7+XvY7VhRKW8io7hlbaFUldFByph8JTuAf837LhEkmsiq+yNrJJ3ynHpZjduvpKfvZJWaHKHi6v042RHxRzr7sCmZoH3CLkUfxmeDa5cfi4zCdjbWGdmkl7EdEwy/MGKRuQD5WkqH0uelIfLq+C4FxfHO/YQh92tIWbqMVZlC8TN74nEkJXKv5XhZKmsynPfYU1V2k3M2APZsCG9iNUJAW5Khwwe4IFiQeOAnJ94/2HjcnOlIfqa3Y+bQgZrqaxghyIAltkVOgOplkkWHMcWJw79P0jB8g32kpBbc7RwHJu5Ja8wC0qre0JYp736y3dfWVJY7bslLdBFXTNP8E5Wqq3ipfDOYxpzXLaOxRQVT8pQstjYu6R+sVJV1Ew9ZUWT1zC3Qyhj7xtmXET3TQzmI5/SwE7aBcox30+nofG1Ty2AKqbeCv4I7rysFX9J3i5PyYYCdq+1HKYFf+cehfyAyrwcn/n2uy81qSCAkq5Nvp6dTG/Yg6etWRqiJGFit1sJLwdkCyf3DoHC6wTOfIVPRLT60vprH/K5+c9tVpMzY6sWGPBYI6StE4UZELEti8XMCq
+    type : 8
+    code_elements :
+     type_code : 8
+     p_codes : []
+  -
+    name : BTN_Fermer
+    identifier : 0x223858c70fa4485e
+    internal_properties : BgAAAAYAAAA2qX/IKr20OooP/FaKbKaanGSQ75CNhE2NDxE8vZWpMpXUDHLzbwSjej/eQIZw4F9Y7GFY5l3ys1uYpMj1WOK4r1bNiAJiiDVFrMajG2Xr+4Xdh4gFGwhAspyGzNxAzrbZl4KRBjqVaUJ8zPvL9lrnaL2sZoceKSLrDcsF6Vap96LwcYMQ4LmLzufPmR4oOiXzrQ5UEyZPCGBUMZm0CVpEKy8cSEmpu4AcsXSqiqoyH7DQYqwa8EvBW9/amLbKrlH62FIWc+U2YgEpyGuwcI7Nub7kgaAk1uibY3m7E2qSd2W810L97YMbeBDD/1W7R9k19qXuG+ELgFheNDuEP4GT2GkYqUMGN7cqPnq3tOyK4xomFNvz4b/6xkfjoID7Q9hiApYFpzlfSm78gA+LFpqjZUeLsBwXpgTqdgv1f6nCtHOsBtg88/IRTaNjTGdhdbf7E/tqRAaHk5KgryO/AdF7t3k8DTcKn/Jk7y6ClG+mwI28ygjUYGUs5wJlgCOpV4nEe12jACWE5GDczEL4cBSSym21oR0DdB92akFzZzQ/d0VIK6h7uQOLd+D5sVHVnqmcAL1c0KG91cpaQtRBJH0PyrAjUV++NrvQq/5FOJDfFL+TezZMUjyCKKgtMszhWEj7huwcbfdOlRgwuXzoPQbP5meCmCOyqvaJzlzL9pHeIVqKqWNI6KEoBj6E1pkvmPlxK+ajgCVTfcvXOKet7pbNnX5sd/++8Mm4fkj5FUqUVBKJoEUTQ/EqDmOra+Xyt9/3oHeDPltuHf3Z5AkX/uMDV5vwa67QoSYflR1ktxMCVKji2BCCuXFYChOhMSZ/cJ5NTcHcu/gwVBfV9BJzDbACSbQHtvnHLmY3sHkUzzL7YdEX6Jtcl7FBx+FyAv7sYALrU7dXcjN9TxWXbKksr0VR8d/S/uDnWJucuxSKfSG6jmiAFYMo6VJpBCToeXnOdlQRHgXivW+Oj39dSKCt2WYcII/1SQLVr7l/NUtpOytLwxI=
+    type : 4
+    code_elements :
+     type_code : 4
+     p_codes :
+      -
+        code : |1+
+         // Version 1
+         // Description 
+         // Bouton permettant de fermer la fenêtre
+         
+         
+        type : 14
+      -
+        internal_properties : BgAAAAYAAADQZyvpRjJZltgKBVFD+SKMukTEU1n2G2jmPSjnx1ZKdSF2vB36egNKcReVrz/xwpIZdIpZoyUu0CjPxu+MpGLAedmE/39iAmJIcu72BpKoWkpseLXy2lnJGPSMFw==
+        type : 18
+      -
+        type : 161
+        enabled : false
+ menu :
+  name : _Menu
+  identifier : 0x223855f60f5e46ce
+  internal_properties : BgAAAAYAAABxCaQBYRM7cDwMsgz1sheo0WyZWf56wFkcpOoXLGczfsUK9bp08Sc7lT1EsqrBlOh9IyjRhxNFkIZvnSEi9ddJUqXX0Qgv0dHc1rau9CC8RYbDvde2MLpZoVVNV9dIq110iPtlwO7nqG3xSUq1dWabs4Zw2CxdM/o48598u3o89tlG/i80iNhG5FO6T3EDZUOliubhamE4Rh8UudSsXx8ZPw/ldof/NN1varkwdJG5BbwhHgd/pm+LimEVNCQvuBxZ+bl270WfnrRi7g==
+  options : []
+ languages :
+  - fr-FR
+ popup_menus : []
+ message_bar :
+  internal_properties : BgAAAAYAAABbUMJBnI+yrRg9CuqogZoqMpvMFHoFcp0rXcViLbL9rqNHCDAO2PF2ltHz/qEqzz3ljpaOw1cmZBG6KlI3OZrT7Usk7kC2kygfxYQvtOM=
+ code_elements :
+  type_code : 1
+  p_codes :
+   -
+     type : 230
+     enabled : false
+ code_parameters :
+  internal_properties : BgAAAAYAAAA6ih3UbgNXHwTtiPSFUEj+2fi/m7v4QV2rqidAupM=
+  original_name : FENMOD_SansNom1
+resources :
+ string_res :
+  identifier : 0x123855f6008746ce
+  internal_properties : BgAAAAYAAAAnMYFQ1bL/vz9ehh7L22SNNSlIzGTOI8h5F/WtgDNP
+custom_note :
+ internal_properties : BgAAAAYAAAC68/W0/adbG0nFCRhrE42B5HRnbDzVHaz86sSQyxlBk7I=
+rad :
+ internal_properties : BgAAAAYAAABoAN7PLpwJW3EiA7WVZdCA5EwrCA1rvutcDHooMWKe
